@@ -4,12 +4,12 @@
 
 ## 下载
 
-打开 [下载页面](https://github.com/fundops-notes/shiye-downloads/releases/latest)，在 Assets 中选择：
+打开 [下载页面](https://github.com/fundops-notes/shiye-downloads/releases/tag/desktop-trial-2026-10-22)，在 Assets 中选择：
 
 - **Shiye-Windows-Trial.zip**：Windows 10/11 x64，内含 Python。
 - **Shiye-Mac-Trial.zip**：目标 macOS 13+，Apple 芯片与 Intel，尚待 Mac 实机验收。
 
-如果 latest 没有显示版本，请打开 [全部版本](https://github.com/fundops-notes/shiye-downloads/releases)。当前均为预发布试用包，不需要仓库邀请即可下载。
+其他版本请打开 [全部版本](https://github.com/fundops-notes/shiye-downloads/releases)。当前均为预发布试用包，不需要仓库邀请即可下载。
 
 ## 开始使用
 
